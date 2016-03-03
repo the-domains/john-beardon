@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[John Beardon]]></title>
         <description><![CDATA[John Beardon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/john-beardon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:58:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 12:12:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-beardon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[John Beardon T/A Ashleigh Consulting]]></title>
+            <description><![CDATA[<article><h1>John Beardon T/A Ashleigh Consulting</h1><p>This is the technology blog of John Beardon. Full-time IT and Communications Manager, IT Consultant, Web Site Developer and self-confessed 'tech head'.</p></article>]]></description>
+            <link>https://thegrid.ai/john-beardon/john-beardon-ta-ashleigh-consulting/index.html</link>
+            <guid isPermaLink="false">1c60b934-f1f9-4f60-b434-ab01c2f516e0</guid>
+            <pubDate>Thu, 03 Mar 2016 12:12:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83cfa23d-2a48-4fe4-b432-14586c610282.jpg">]]></description>
-            <link>undefined19d6bac1-0b3a-42cc-8d4a-bf0464f32e27/index.html</link>
+            <link>https://thegrid.ai/john-beardon/19d6bac1-0b3a-42cc-8d4a-bf0464f32e27/index.html</link>
             <guid isPermaLink="false">19d6bac1-0b3a-42cc-8d4a-bf0464f32e27</guid>
             <pubDate>Sun, 21 Feb 2016 16:58:07 GMT</pubDate>
         </item>
